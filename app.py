@@ -1,8 +1,8 @@
 # ============================================================
 # CABECERA
 # ============================================================
-# Alumno: Gonzalo García Gutiérrez
-# URL Streamlit Cloud: 
+# Alumno: Gonzalo García
+# URL Streamlit Cloud: https://spotifygonzalorecords.streamlit.app/
 # URL GitHub: https://github.com/gogarci86/BC5_Construccion_asistente_analitico_Spotify.git
 
 # ============================================================
